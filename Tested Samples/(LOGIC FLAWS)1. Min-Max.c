@@ -17,7 +17,6 @@ void findV(int *arr)
             min = arr[i];
         }
         i++;
-
     }
 
     printf("The min is %i", min);

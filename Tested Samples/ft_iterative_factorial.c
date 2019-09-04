@@ -6,7 +6,7 @@ int ft_iterative_factorial(int nb)
     int i = nb;
     // 5! = 5 * 4 * 3 * 2 * 1
 
-    while(i != 0)
+    while (i != 0)
     {
         result = result * i;
         i--;
@@ -14,8 +14,7 @@ int ft_iterative_factorial(int nb)
     return result;
 }
 
-    int main()
-    {
-        printf("%d", ft_iterative_factorial(5));
-    }
-    
+int main()
+{
+    printf("%d", ft_iterative_factorial(5));
+}

@@ -1,21 +1,21 @@
 #include <string.h>
 #include <stdio.h>
-#define VariableName(name)  #name // таким образом мы сможем отображать имя именно той переменной над котой велась операция в каждом следующем printf.
+#define VariableName(name) #name // таким образом мы сможем отображать имя именно той переменной над котой велась операция в каждом следующем printf.
 
 int ft_strlen(char *x)
 {
   int i = 0;
-  
-  while(x[i] != '\0')
+
+  while (x[i] != '\0')
   {
-   i++; 
+    i++;
   }
-  
+
   printf("The sting '%s' has %i symbols.\n", VariableName(x), i);
   return i;
 }
 
-int main() 
+int main()
 {
 
   char x0[] = "huy";
@@ -27,7 +27,7 @@ int main()
   char x6[] = "blya, mat' tvoju ebal";
   char x7[] = "ty 4e 4ert";
   char x8[] = "podumaj dvazhdy";
-  
+
   ft_strlen(x0);
   ft_strlen(x1);
   ft_strlen(x2);

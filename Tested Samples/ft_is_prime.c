@@ -2,38 +2,38 @@
 
 int ft_is_prime(int n)
 {
-    if(n == 0)
+    if (n == 0)
     {
         printf("The number %d is 0\n", n);
     }
-    else if(n == 1)
+    else if (n == 1)
     {
         printf("The number %d is either\n", n);
     }
-    else if(n == 2)
-    {   
+    else if (n == 2)
+    {
         printf("The number %d is prime\n", n);
     }
-    
+
     else
     {
-        int i = n-1;
-        
-        while(i > 1)
+        int i = n - 1;
+
+        while (i > 1)
         {
-            if(n % i == 0)
+            if (n % i == 0)
             {
-              printf("The number %d is composite\n", n);
-              break;
+                printf("The number %d is composite\n", n);
+                break;
             }
             else
             {
-              i--;
+                i--;
             }
-            
-            if(i == 1)
+
+            if (i == 1)
             {
-              printf("The number %d is prime\n", n);
+                printf("The number %d is prime\n", n);
             }
         }
     }

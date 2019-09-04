@@ -9,7 +9,7 @@ int main(int argc, char **argv)
         ft_putchar('a');
         ft_putchar('\n');
     }
-        
+
     else
     {
         int i = 0;
@@ -21,10 +21,9 @@ int main(int argc, char **argv)
                 ft_putchar(argv[1][i]);
                 break;
             }
-            
+
             argv[1][i]++;
         }
-
     }
     write(1, "\n", 1);
     return (0);

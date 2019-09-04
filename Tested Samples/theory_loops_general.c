@@ -19,7 +19,7 @@ int main(void)
     int i = 0; // задаем переенную-индексатор (итератор, счетчик, каунтер)
 
     printf("While loop:\n");
-    while(i < SIZE)
+    while (i < SIZE)
     {
         printf("%d\n", prices[i]);
         i++;
@@ -27,7 +27,7 @@ int main(void)
     printf("\n");
 
     printf("For loop:\n");
-    for(int i = 0; i < SIZE; i++) // C99 std allows to declare and initialize variables in loop condition
+    for (int i = 0; i < SIZE; i++) // C99 std allows to declare and initialize variables in loop condition
     {
         printf("%d\n", prices[i]);
     }
