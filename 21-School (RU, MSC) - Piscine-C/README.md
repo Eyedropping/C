@@ -41,3 +41,12 @@ Those who want to be prepared, as well as the current students of current 'Pisci
 * All tasks are completed by the repo owner.
 * Consequently all logic and structuring, as well as other technical stuff came solely from the owner's head.
 * Some tasks, you will see may seem to have ligher / faster / more logical / less sloppy solution? Please feel free to contact or comment!
+
+ ### Further Reading & Reference (CLARIFY)
+- C:
+    - offsite
+    - book
+
+- Misc:
+    - pythontutor
+    - tutorialspoint
