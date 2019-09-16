@@ -8,6 +8,6 @@ Create a function that displays the alphabet in lowercase, on a single line, by 
 void ft_print_alphabet(void);
 
 ### Links:
-*[Go to root folder of the Piscine](https://github.com/Eyedropping/C/tree/master/Piscine_C_21_School)
+1. [Go to root folder of the Piscine](https://github.com/Eyedropping/C/tree/master/Piscine_C_21_School)
 
-*[Go to root folder of the present Day](https://github.com/Eyedropping/C/tree/master/Piscine_C_21_School/Day02)
+1. [Go to root folder of the present Day](https://github.com/Eyedropping/C/tree/master/Piscine_C_21_School/Day02)
