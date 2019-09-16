@@ -1,3 +1,3 @@
-Allowed functions : ft_putchar
-Create a function that displays the alphabet in lowercase, on a single line, by ascending order, starting from the letter ’a’.
-Here’s how it should be prototyped : void ft_print_alphabet(void);
+**Allowed functions:** ft_putchar
+__Create a function that displays the alphabet in lowercase, on a single line, by ascending order, starting from the letter ’a’.__
+**Here’s how it should be prototyped:** void ft_print_alphabet(void);
