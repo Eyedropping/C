@@ -2,11 +2,11 @@
 `ft_putchar`
 
 ### Task:
-Create a function that displays ’N’ or ’P’ depending on the integer’s sign entered as a parameter. If n is negative, display ’N’. If n is positive or null, display ’P’.
+Create a function that displays `’N’` or `’P’` depending on the integer’s sign entered as a parameter. If n is negative, display `’N’`. If n is positive or null, display `’P’`.
 
 
 ### Here’s how it should be prototyped:
-void ft_is_negative(int n);
+`void ft_is_negative(int n);`
 
 ### Links:
 1. [Go to root folder of the Piscine](https://github.com/Eyedropping/C/tree/master/Piscine_C_21_School)

@@ -6,7 +6,7 @@ Create a function that displays all digits, on a single line, by ascending order
 
 
 ### Here’s how it should be prototyped:
-void ft_print_numbers(void);
+`void ft_print_numbers(void);`
 
 ### Links:
 1. [Go to root folder of the Piscine](https://github.com/Eyedropping/C/tree/master/Piscine_C_21_School)
