@@ -3,6 +3,7 @@
 **General workplan:**
 - [x] Repo started
 - [ ] Files and folders named properly
+- [ ] Programs are compiled with `-Wall` `-Wextra` & `-Werror` flags
 - [ ] Numeration?
 - [ ] Readme made in each structure element
 - [ ] Licence clarified
