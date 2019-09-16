@@ -9,4 +9,5 @@ void ft_print_alphabet(void);
 
 ### Links:
 *[Go to root folder of the Piscine](https://github.com/Eyedropping/C/tree/master/Piscine_C_21_School)
+
 *[Go to root folder of the present Day](https://github.com/Eyedropping/C/tree/master/Piscine_C_21_School/Day02)
