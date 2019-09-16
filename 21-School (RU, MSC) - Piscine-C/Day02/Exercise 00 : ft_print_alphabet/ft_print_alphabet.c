@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-char ft_putchar(char a);
+void ft_putchar(char a);
 
 void ft_print_alphabet(void)
 {
