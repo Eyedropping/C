@@ -15,7 +15,7 @@
 ## Table of Contents
 Day | Solution | Subject
 ----|----------|--------
-Day00| | 
+Day00|[Go](C/21-School (RU, MSC) - Piscine-C/Day00/) | 
 Day01| | 
 Day02| | 
 Day03| | 
