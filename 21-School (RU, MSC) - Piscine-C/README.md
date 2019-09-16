@@ -15,20 +15,20 @@
 ## Table of Contents
 Day | Solution | Subject
 ----|----------|--------
-Day00|[Go](/Day00/) | 
-Day01| | 
-Day02| | 
-Day03| | 
-Day04| | 
-Day05| | 
-Day06| | 
-Day07| | 
-Day08| | 
-Day09| | 
-Day10| | 
-Day11| | 
-Day12| | 
-Day13| | 
+Day00|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day00) | 
+Day01|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day01) | 
+Day02|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day02) | 
+Day03|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day03) | 
+Day04|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day04) | 
+Day05|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day05) | 
+Day06|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day06) | 
+Day07|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day07) | 
+Day08|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day08) | 
+Day09|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day09) | 
+Day10|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day10) | 
+Day11|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day11) | 
+Day12|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day12) | 
+Day13|[Go](https://github.com/Eyedropping/C/tree/master/21-School%20(RU%2C%20MSC)%20-%20Piscine-C/Day13) | 
 
 ## Technical Notes
 ### Purpose of Creation
