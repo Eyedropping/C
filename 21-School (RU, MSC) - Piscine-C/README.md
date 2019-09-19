@@ -61,6 +61,7 @@ Those who want to be prepared, as well as the current students of current 'Pisci
     - [21 School](https://21-school.ru)
     - [21's VK](https://vk.com/coding21)
 
-- **Other Reference:**
+- **Other References / Blogs:**
 - teodora's
 - other?! google it
+- some blogs maybe
