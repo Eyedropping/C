@@ -2,7 +2,7 @@
 
 **General Workplan:**
 - [x] Repo started
-- [ ] Reupload all subjects and preserve namings
+- [ ] Replace all subjects PDFs and preserve namings
 - [ ] Files and folders named properly
 - [ ] complete bash day (d00) and bash script day (d01)
 - [ ] Programs are compiled with `-Wall` `-Wextra` & `-Werror` flags
