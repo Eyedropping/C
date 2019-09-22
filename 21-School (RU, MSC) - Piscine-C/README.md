@@ -2,14 +2,14 @@
 
 **General Workplan:**
 - [x] Repo started
-- [ ] Replace all subjects PDFs and preserve namings
-- [ ] Files and folders named properly
+- [x] Replace all subjects PDFs and preserve namings
+- [x] Files and folders named properly
 - [ ] complete bash day (d00) and bash script day (d01)
 - [ ] Programs are compiled with `-Wall` `-Wextra` & `-Werror` flags
-- [ ] Numeration?
+- [x] Numeration?
 - [ ] Readme made in each structure element
-- [ ] Licence clarified
-- [ ] All subject files are inserted in appropriate folders
+- [x] Licence clarified
+- [x] All subject files are inserted in appropriate folders
 - [ ] All tasks completed and uploaded
 - [ ] Sub-repo made available for public review
 
