@@ -4,31 +4,29 @@ void ft_putchar(char a);
 
 void ft_print_comb(void)
 {
-    char arr[] = {'0', '0', '0'};
+    int number[3];
 
-    int i = 0;
-    while (arr[i] != sizeof(arr))
+    number[0] = '0';
+    while (number[0] <= '9')
     {
-        printf("%c", arr[i]);
-        i++;
+        number[1] = number[0] + 1;
+        while (number[1] <= '9')
+        {
+            number[2] = number[1] + 1;
+            while (number[2] <= '9')
+            {
+                ft_putchar(number[0]);
+                ft_putchar(number[1]);
+                ft_putchar(number[2]);
+                if (!(number[0] == '7' && number[1] == '8' && number[2] == '9'))
+                {
+                    ft_putchar(',');
+                    ft_putchar(' ');
+                }
+                number[2]++;
+            }
+            number[1]++;
+        }
+        number[0]++;
     }
-
-    printf("\n");
-
-    // while (fd <= 9)
-    // {
-    //     while (sd <= 9)
-    //     {
-
-    //         while (td <= 9)
-    //         {
-    //             ft_putchar(td);
-    //             td++;
-    //         }
-    //         ft_putchar(sd);
-    //         sd++;
-    //     }
-    //     ft_putchar(fd);
-    //     fd++;
-    // }
 }
